@@ -1,0 +1,2 @@
+export const USER_TOKEN="USER_TOKEN"
+export const CAPTAIN_TOKEN="CAPTAIN_TOKEN"

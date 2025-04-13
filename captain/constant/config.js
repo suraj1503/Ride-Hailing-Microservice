@@ -1,0 +1,1 @@
+export const CAPTAIN_TOKEN="CAPTAIN_TOKEN"
